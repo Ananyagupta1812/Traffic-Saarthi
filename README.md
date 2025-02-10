@@ -30,5 +30,7 @@
    pip install -r requirements.txt
    ```
 
-## Deployed Project 
+## Deployed Project
+```bash
 https://traffic-saarthi-app.streamlit.app/
+```
